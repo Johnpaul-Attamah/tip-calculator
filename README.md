@@ -26,13 +26,12 @@ Users should be able to:
 - Calculate the correct tip and total cost of the bill per person
 
 ### Screenshot
-
-![view Screenshots](./images/screenshot.png)
+![view Screenshots](https://user-images.githubusercontent.com/44214523/126873890-10644d6b-1f39-4530-9343-068e9e1fd272.png)
 
 ### Links
 
 - Solution URL: [view codes](https://your-solution-url.com)
-- Live Site URL: [Go live](https://your-live-site-url.com)
+- Live Site URL: [Go live](https://determined-knuth-12c793.netlify.app/)
 
 ## My process
 
